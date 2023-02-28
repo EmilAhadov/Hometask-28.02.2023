@@ -16,7 +16,6 @@ while (givenNumber != 2)
     givenNumber /= 2;
 
 }
-//This part doesn't work
 if(givenNumber == 1 || givenNumber==2)
 {
     m=true;
